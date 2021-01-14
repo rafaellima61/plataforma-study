@@ -3,4 +3,4 @@ aprendi muito com o conteúdo e vou me empenhar pra continuar evoluindo e atingi
 
 * Utilizando apenas html e css com design limpo e responsivo.
 
-* Tenho estou trabalhando para implementar um dark theme com theme swift e até dar mais vida ao projeto com Javascript .
+* Tenho estou trabalhando para implementar um dark theme com theme swift e até dar mais vida ao projeto com Javascript .# plataforma-study
